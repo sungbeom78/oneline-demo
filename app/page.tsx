@@ -17,7 +17,7 @@ export default function HomePage() {
   return (
     <>
       <section className="hero">
-        <h1 className="title">오늘의 한 줄</h1>
+        <h1 className="title">오늘의 한 줄. 수정 테스트</h1>
         <p className="lead">
           지나가다 들르셨다면, 오늘 한 줄만 남기고 가세요.
         </p>
